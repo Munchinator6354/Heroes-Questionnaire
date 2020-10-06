@@ -11,7 +11,7 @@ Specifically, a scene in the movie has a character ask our heroes 3 questions an
 
 Now with Heroes-Questionnaire you can similarly be asked these same questions. Now, what say you!?
 
-[video link for funsies] (https://www.youtube.com/watch?v=pWS8Mg-JWSg&t=1s)
+[video link for funsies](https://www.youtube.com/watch?v=pWS8Mg-JWSg&t=1s)
 
 ## Technologies Used
 * Visual Basic w00t w00t!
